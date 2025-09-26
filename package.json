@@ -1,0 +1,19 @@
+{
+    "name": "ru.leopotam.googledocs.unity",
+    "author": "Leopotam",
+    "displayName": "GoogleDocs Unity",
+    "description": "GoogleDocs Unity - Поддержка загрузки GoogleDocs-документов по прямым ссылкам.",
+    "unity": "2021.3",
+    "version": "2025.9.6",
+    "keywords": [
+        "googledocs",
+        "yandex",
+        "cdn",
+        "network"
+    ],
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "https://gitverse.ru/leopotam/googledocs.unity.git"
+    }
+}
